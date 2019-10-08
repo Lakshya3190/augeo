@@ -1,0 +1,22 @@
+#researchPage
+{
+    padding-top: 70px;
+    padding-bottom: 100px;
+}
+
+.re_header
+{
+    color: rgb(105, 172, 175);
+    font-size: 25px;
+    padding-left: 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 30px;
+    font-family: 'Bree Serif', serif;
+    display: flex;
+    background: linear-gradient(to left,rgb(14, 13, 13),rgb(53, 50, 46) 100%);
+    margin-right: 850px;
+    margin-left: 50px;
+    border: 0px solid rgb(70, 114, 116);
+    border-radius: 40px;
+}

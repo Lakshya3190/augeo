@@ -1,0 +1,26 @@
+.footer
+{
+
+    background: linear-gradient(to left,rgb(255, 93, 93),rgb(255, 174, 67) 100%);
+    padding: 30px;
+}
+
+.contactMe
+{
+    color: black;
+    font-family: 'verdana';
+}
+
+.finalfoot
+{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    background: linear-gradient(to left,rgb(255, 93, 93),rgb(255, 174, 67) 100%);
+    padding: 20px;
+}
+
+.social_icon
+{
+    margin-left: 10px;
+}

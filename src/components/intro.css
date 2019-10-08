@@ -1,0 +1,83 @@
+.intro
+{
+    font-family: 'verdana';
+    
+    margin: 180px;
+    margin-bottom:115px;
+
+}
+.cont
+{
+    display: flex;
+    justify-content: left;
+    flex-wrap: wrap;
+    background-color: rgb(255, 179, 80);
+    border-top: 2px solid black;
+    border-right: 2px solid black;
+    border-radius: 20px;
+
+}
+span{
+    font-size: 95px;
+    color: rgb(247, 232, 224);
+}
+
+.salutation
+{
+    color: rgb(247, 232, 224);
+    font-size: 25px;
+    
+}
+
+.intro-desc
+{
+    color: rgb(247, 232, 224);
+    font-size: 20px;
+    margin-top: 20px;
+    margin-right:300px;
+}
+
+.particles
+{
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    z-index: -1;
+}
+
+@media only screen and (max-width: 1000px){
+
+    span{
+        font-size: 60px;
+    }
+
+    .intro-desc{
+        font-size: 30px;
+        margin-right:50px;
+    }
+}
+
+
+
+@media only screen and (max-width: 780px){
+
+    span{
+        font-size: 40px;
+    }
+
+    .intro-desc{
+        font-size: 14px;
+        margin-right:0px;
+    }
+}
+
+@media only screen and (max-width: 590px){
+    .intro{
+        margin:60px;
+    }
+    .intro-desc{
+        font-size: 13px;
+    }
+}
