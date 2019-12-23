@@ -1,2 +1,2 @@
 # augeo
-An online porfolio website designed and built by me from the ground up. 
+An online porfolio website realized on React.js
