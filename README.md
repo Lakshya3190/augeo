@@ -5,6 +5,9 @@ https://lakshya3190.github.io/augeo/
 
 ![Screenshot](https://github.com/Lakshya3190/augeo/blob/master/Screenshot%20(23).png)
 
+## Framework
+- React.js
+
 ## Libraries
 - Tachyons
 - Particles.js
