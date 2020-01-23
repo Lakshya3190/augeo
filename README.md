@@ -8,7 +8,8 @@ https://lakshya3190.github.io/augeo/
 ## Framework
 - React.js
 
-## Libraries
-- Tachyons
-- Particles.js
-- Springs.js
+## Features
+- Dynamic Animations
+- Responsive
+- Lazy Loading
+
